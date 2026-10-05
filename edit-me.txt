@@ -1,0 +1,21 @@
+REDLINE AUTO WORKS — EDITING GUIDE
+
+PHONE
+Already set to: 07549 530115
+
+CARS FOR SALE
+Open script.js and edit the 'vehicles' list at the top.
+Example:
+{status:'AVAILABLE',name:'2020 BMW M135i',details:'45,000 miles • Automatic • £19,995'}
+
+TEXT / SERVICES
+Open index.html in a text editor and change the wording.
+
+COLOURS / DESIGN
+Open styles.css. The main red is --red near the top.
+
+PUBLISHING
+Upload the contents of this folder to a static web host such as Netlify, Cloudflare Pages, GitHub Pages or your domain host. Connect your chosen domain in that provider's dashboard.
+
+IMPORTANT
+A domain being unindexed does not prove it is available. Confirm and register your chosen domain with a registrar before connecting it.
